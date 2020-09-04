@@ -33,9 +33,9 @@ The Application is divided into layers
 In order to run the application in Visual Studio for windows do follow below steps: 
 1. clone the repository in local system. Open command prompt and execute the follwing command
 ```
-git clone https://github.com/vikas379/ContactsAPI.git
+git clone https://github.com/devcass/ContactsAPI.git
 ```
-2. open the solution in Visual Studio 2017
+2. open the solution in Visual Studio 2017 or 2019
 3. Go to *__ContactsAPI/appsettings.json__* and change connection string to your local database.
 4. open Package Manager Console
 5. change the Default project in Package Manager Console to *__ContactsAPI/Persistence__*
